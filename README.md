@@ -13,7 +13,7 @@ Build your own splash screens for the Fairphone 2 (FP2)
 Install `python` and `python-imaging` from your distro software repositories:
 
 ```
-sudo apt install python python-imaging
+sudo apt install python python-pil
 ```
 
 ## Build the splash screen
